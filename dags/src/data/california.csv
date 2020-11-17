@@ -1,0 +1,567 @@
+distribution_type,distribution_format,distribution_title,distribution_description,distribution_downloadURL,title,description,modified,accessLevel,identifier,landingPage
+dcat:Distribution,CSV,Blueprint Data Chart 11-16-20,"&#42; Schools that have already re-opened if a county was in a less restrictive tier do not have to close. However, if a school had not already reopened for in person instruction, it May not reopen until the county moves back to Tier 2 for 14 days. See Schools guidance, schools FAQs and cohorting FAQs. 											
+** Test volume adjustment for case rate is based on data used for Blueprint calculations on 11/9",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/9f6d92c3-2fd4-456b-b31e-c613649ba37e/download/blueprint_data_chart_111620.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 11-10-20,"&#42;Undergoing county tier adjudication with CDPH											
+&#42;&#42;Small County: Held harmless, did not exceed case number threshold											
+^ Entering into supportive engagement with CDPH											
+^^Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 											
+^^^Schools that have already re-opened if a county was in a less restrictive tier do not have to close. However, if a school had not already reopened for in person instruction, it may not reopen until the county moves back to Tier 2 for 14 days. See Schools guidance, schools FAQs and cohorting FAQs.",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/e2ec819f-5c15-41b1-bfce-389c63092844/download/blueprint_data_chart_111020.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 11-04-20,"&#42; Undergoing county tier adjudication with CDPH											
+&#42;&#42; Small County: Held harmless, did not exceed case number threshold											
+&#42;&#42;&#42; Placed in observation											
+^ Entering into supportive engagement with CDPH											
+^^Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 											
+^^^Schools that have already re-opened if a county was in a less restrictive tier do not have to close. However, if a school had not already reopened for in person instruction, it may not reopen until the county moves back to Tier 2 for 14 days. See Schools guidance, schools FAQs and cohorting FAQs.",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/7a304f13-7a24-4942-bb3d-e93ac9887ebe/download/blueprint_data_chart_110420.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 10-27-20,"Annotations in file:
+
+&#42;Undergoing Tier Adjudication with CDPH											
+&#42;&#42;Small County: Held harmless, did not exceed case number threshold											
+&#42;&#42;&#42;Calaveras met small county criteria to advance to yellow. San Francisco and Humboldt remain in yellow tier due to prior movement via accelerated health equity tier criteria											
+^Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 											
+^^Entering into supportive engagement with CDPH. Shasta County under observation period.",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/0134ed94-3c7f-4d4c-b840-f5954c51f4f0/download/blueprint_data_chart_102720.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 10-21-20,"Annotations in file:
+
+&#42;Undergoing Tier Adjudication with CDPH											
+&#42;&#42;Small County: Held harmless, did not exceed case number threshold											
+&#42;&#42;&#42;Accelerated Health Equity: San Francisco meets criteria for accelerated movement to a less restrictive tier. Humboldt remains in tier to via accelerated health equity criteria. 											
+^Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 											
+^^Entering into supportive engagement with CDPH
+
+&#94;&#94;&#94; HE=Health Equity",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/75fb93ac-b85a-4169-9145-77cf3c4e77b8/download/blueprint_data_chart_102120.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 10-13-2020,"Annotations in file:
+
+&#42;Remains in Tier moved to via accelerated Health Equity criteria				
+&#42;&#42;Small County: Held harmless, did not exceed case number threshold				
+&#42;&#42;&#42;Undergoing Adjudication				
+&#94;Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 		
+&#94;&#94; HE=Health Equity",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/54b23838-c746-4a5a-8267-d49351957adf/download/bdc-101320.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 10-6-2020,"Annotations in file:
+
+&#42;Health Equity Metric: Meets criteria for accelerated movement to a less restrictive tier.					
+&#42;&#42;Small County: Held harmless, did not exceed case number threshold.					
+&#42;&#42;&#42;Moved to more restrictive tier due to exceeding case number threshold for small county					
+&#94;Entering into supportive engagement period with CDPH.					
+&#94; &#94;Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/ac6a38fc-9aba-432f-8934-507740c63526/download/bdc-100620.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 9-29-2020,"Annotations in file: 
+
+&#42;Entering into supportive engagement period with CDPH. Modoc will remain in the yellow tier. Lake held harmless and will be held in Red tier.								
+&#42;&#42;County was in tier adjudication with CDPH. Final determination places county in Orange tier for 09/29 assessment and retroactively for 09/22								
+&#42;&#42;&#42;County underwent tier adjudication with CDPH after 9/22 tier assignment. County has been moved from Red to Orange tier								
+&#94;Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 								
+&#94;&#94;Metrics with values greater than or less than tier cutpoints by .05 will be rounded up or down using conventional rounding rules",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/35d2361a-cf0b-4128-855a-ef93255ac240/download/bdc-092920.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 9-15-2020,"Annotations in file:
+
+&#42;Placed in Red tier after data adjudication with CDPH for week of 09/08/2020														
+&#42;&#42;Will undergo data adjudication with CDPH for high case rate",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/b3424108-2aa8-4210-a6d4-494bccaa692e/download/bdc-091520.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 9-8-2020,"Annotations in file:
+
+&#42;Source: http://www.dof.ca.gov/Forecasting/Demographics/Projections/ 				
+&#42;&#42;Adjustment Case Rate For Tier Assignment Using Linear Adjustment per 100,000 excl prison (7 day avg 7 day lag)",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/16a4a473-5969-44bf-ac00-84c27e6d0652/download/bdc-090820.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,CSV,Blueprint Data Chart 8-31-2020,"Annotation in file: 
+
+&#42;Health Equality Metric pending",https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/c9d32609-8f1d-4691-b234-e4803f2ff113/download/bdc-083120.csv,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/e19b8fba-7c04-495b-8e2f-90d041e1bb59/resource/c3b659de-c7b9-45b1-80c5-80a56775494b/download/covid-19-blueprint-for-a-safer-economy-cefhgm.zip,COVID-19 Blueprint for a Safer Economy Data Chart,"11-16-20 note: Due to the recent increase of cases, the table format has changed to reflect change in county tier status. Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for further information.
+
+California has a new blueprint for reducing COVID-19 in the state with revised criteria for loosening and tightening restrictions on activities. Every county in California is assigned to a tier based on its test positivity and adjusted case rate for tier assignment. Additionally, a new health equity metric took effect on October 6, 2020. In order to advance to the next less restrictive tier, each county will need to meet an equity metric or demonstrate targeted investments to eliminate disparities in levels of COVID-19 transmission, depending on its size. The California Health Equity Metric is designed to help guide counties in their continuing efforts to reduce COVID-19 cases in all communities and requires more intensive efforts to prevent and mitigate the spread of COVID-19 among Californians who have been disproportionately impacted by this pandemic.
+
+Please see https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx for more information.
+
+Also, in lieu of a Data Dictionary, please refer to the detailed explanation of the data columns in Appendix 1 of the above webpage.
+
+Because this data is in machine-readable format, the merged headers at the top of the source spreadsheet have not been included:
+
+- The first 8 columns are under the header ""County Status as of Tier Assignment""
+
+-  The next 3 columns are under the header ""Current Data Week Tier and Metric Tiers for Data Week""
+
+-  The next 4 columns are under the header ""Case Rate Adjustment Factors""
+
+-  The next column is under the header ""Small County Considerations""
+
+-  The last 5 columns are under the header ""Health Equity Framework Parameters""",2020-11-17T02:47:14.274698,public,e19b8fba-7c04-495b-8e2f-90d041e1bb59,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/7759311f-1aa8-4ff6-bfbb-ba8f64290ae2/resource/e8d0f675-4d2b-4afd-8669-6f5edf9f1255/download/test-cdph-skilled-nursing-facilities-covid-19-krznht.zip,COVID-19 Skilled Nursing Facility Data,"Skilled Nursing Facility (SNF) testing and case data for the COVID-19 response.  For details on the  SNF COVID-19 data, please visit this site: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx",2020-11-17T01:10:06.843126,public,7759311f-1aa8-4ff6-bfbb-ba8f64290ae2,https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx
+dcat:Distribution,CSV,Skilled Nursing Facilities COVID-19,Statewide Skilled Nursing Facilities COVID-19 Cases,https://data.chhs.ca.gov/dataset/7759311f-1aa8-4ff6-bfbb-ba8f64290ae2/resource/d4d68f74-9176-4969-9f07-1546d81db5a7/download/covid19datanursinghome.csv,COVID-19 Skilled Nursing Facility Data,"Skilled Nursing Facility (SNF) testing and case data for the COVID-19 response.  For details on the  SNF COVID-19 data, please visit this site: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx",2020-11-17T01:10:06.843126,public,7759311f-1aa8-4ff6-bfbb-ba8f64290ae2,https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx
+dcat:Distribution,CSV,COVID-19 State level testing and baseline aggregate data,"Skilled Nursing Facility (SNF) testing and case data for the COVID-19 response. For details on the SNF COVID-19 data, please visit this site:",https://data.chhs.ca.gov/dataset/7759311f-1aa8-4ff6-bfbb-ba8f64290ae2/resource/4676b72c-f61d-4d2e-9fc4-9536f716d0c6/download/covid19aggregatedata.csv,COVID-19 Skilled Nursing Facility Data,"Skilled Nursing Facility (SNF) testing and case data for the COVID-19 response.  For details on the  SNF COVID-19 data, please visit this site: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx",2020-11-17T01:10:06.843126,public,7759311f-1aa8-4ff6-bfbb-ba8f64290ae2,https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/29c71819-97b5-42fe-9ffd-3d04d07d6133/download/reported-positive-covid-19-tests-of-regional-center-consumers-by-gender-od9smq.zip,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,Consumers Reported as COVID-19 Positive by Age,Consumers reported as COVID-19 positive by age.,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/0d32bbb7-d23c-4819-a1fe-a22a47b4a9f9/download/table2_age.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,Consumers Reported as COVID-19 Positive by Ethnicity,Consumers reported as COVID-19 positive by ethnicity.,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/625b4941-b729-4065-8260-56497fbcf847/download/table3_ethnicity.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,Consumers Reported as COVID-19 Positive by Residence Type,Consumers reported as COVID-19 positive by residence type.,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/487b4294-01ba-41c9-bda0-149c00b56260/download/table4_residence.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,COVID-19 Deaths by Residence Type,COVID-19 Deaths by Residence Type.,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/3fb5d735-1e0e-4d2d-afb7-906436818672/download/table6_deceased.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,Consumers Reported as COVID-19 Positive by Regional Center,Consumers reported as COVID-19 positive by regional center.,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/0334b368-d1b3-4ebe-b521-091b4ae42a60/download/table5_regionalcenters.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,CSV,Consumers Reported as COVID-19 Positive by Gender,Consumers Reported as COVID-19 Positive by Gender,https://data.chhs.ca.gov/dataset/d85a3ad3-faa4-4062-97b7-1d14730acbdb/resource/3699bdb3-a4c1-4e2c-a768-172a1732673b/download/table1_gender.csv,Reported Positive COVID-19 Tests and Deaths of Regional Center Consumers,"These tables compile data provided to DDS by California's 21 regional centers. Updates received from each regional center every business day include information for individuals known to them to have tested positive for COVID-19. Data is provisional and may change as regional centers provide updates. Details regarding gender, age group, and self-reported ethnicity are retrieved from separate databases of information for all regional center consumers.",2020-11-13T18:25:57.436305,public,d85a3ad3-faa4-4062-97b7-1d14730acbdb,https://www.dds.ca.gov/corona-virus-information-and-resources/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/cca97f19-7164-456b-b87a-238a0c4bd853/resource/e7016492-3c75-462b-b3c2-e628c652811a/download/covid-19-dhcs-behavioral-health-licensed-and-certified-facilities-smoomi.zip,COVID-19 Positive Cases: DHCS Behavioral Health Licensed and Certified Facilities,COVID-19 positive cases reported amongst staff and residents within behavioral health licensed and certified facilities overseen by DHCS.,2020-11-13T17:57:53.946143,public,cca97f19-7164-456b-b87a-238a0c4bd853,https://www.dhcs.ca.gov/
+dcat:Distribution,CSV,DHCS COVID-19 Reported BH Facilities,COVID-19 positive cases reported amongst staff and residents within behavioral health licensed and certified facilities overseen by DHCS.,https://data.chhs.ca.gov/dataset/cca97f19-7164-456b-b87a-238a0c4bd853/resource/62ebe1ec-f906-4b4f-8e00-fb2a824223d1/download/sud-and-mh-positive-covid-19.csv,COVID-19 Positive Cases: DHCS Behavioral Health Licensed and Certified Facilities,COVID-19 positive cases reported amongst staff and residents within behavioral health licensed and certified facilities overseen by DHCS.,2020-11-13T17:57:53.946143,public,cca97f19-7164-456b-b87a-238a0c4bd853,https://www.dhcs.ca.gov/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/7dac77b8-515f-415c-bf7f-5abdc7d6d68e/resource/53fdb02d-9e48-40ab-a055-cd632ffcc426/download/covid-19-staff-data-rblhwl.zip,COVID-19 Staff Data,"##DSH COVID-19 Staff Testing: Last updated - 10/30/2020
+DSH COVID-19 Staff Data reports on DSH staff and non-DSH personnel positives at the facility level for DSH.  The table reports on the following data fields: 
+
+* Total staff positive for COVID-19 confirmed by Public Health or medical facility since 3/20/2020
+
+* Staff newly positive for COVID-19 in the last 14 days
+
+* Non-DSH personnel positive for COVID-19 confirmed by Public Health or medical facility since 5/26/2020
+
+* Non-DSH personnel newly positive for COVID-19 in the last 14 days
+
+##Table Notes:
+
+Data has been de-identified in accordance with CHHS Data De-identification Guidelines.  Counts between 1-10 are masked with ""<11"". Other includes non-DSH personnel who perform work at DSH facilities and personnel working at sites located on DSH facilities that are operated by other organizations.",2020-11-12T16:04:03.124923,public,7dac77b8-515f-415c-bf7f-5abdc7d6d68e,http://www.dsh.ca.gov/
+dcat:Distribution,CSV,COVID-19 Staff Data,nan,https://data.chhs.ca.gov/dataset/7dac77b8-515f-415c-bf7f-5abdc7d6d68e/resource/ddcc46c5-e3ea-4f9a-bd94-3c0af778c944/download/covid19_staff_10.30.2020.csv,COVID-19 Staff Data,"##DSH COVID-19 Staff Testing: Last updated - 10/30/2020
+DSH COVID-19 Staff Data reports on DSH staff and non-DSH personnel positives at the facility level for DSH.  The table reports on the following data fields: 
+
+* Total staff positive for COVID-19 confirmed by Public Health or medical facility since 3/20/2020
+
+* Staff newly positive for COVID-19 in the last 14 days
+
+* Non-DSH personnel positive for COVID-19 confirmed by Public Health or medical facility since 5/26/2020
+
+* Non-DSH personnel newly positive for COVID-19 in the last 14 days
+
+##Table Notes:
+
+Data has been de-identified in accordance with CHHS Data De-identification Guidelines.  Counts between 1-10 are masked with ""<11"". Other includes non-DSH personnel who perform work at DSH facilities and personnel working at sites located on DSH facilities that are operated by other organizations.",2020-11-12T16:04:03.124923,public,7dac77b8-515f-415c-bf7f-5abdc7d6d68e,http://www.dsh.ca.gov/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/31f19bf7-2ca3-4834-8e2f-5551c0c72c8c/resource/e5954e0c-7bb3-417d-83ef-3d27a06e0b3a/download/covid-19-patient-data-dyuoab.zip,COVID-19 Patient Data,"#DSH COVID-19 Patient Testing: Last updated - 10/30/2020
+
+DSH COVID-19 Patient Data reports on patient positives and testing counts at the facility level for DSH.  The table reports on the following data fields: 
+
+* Total patients that tested positive for COVID-19 since 5/16/2020
+
+* Patients newly positive for COVID-19 in the last 14 days
+
+* Patient deaths while patient was positive for COVID-19 since 5/30/2020
+
+* Total number of tests administered since 3/23/2020
+
+##Table Notes: 
+
+COVID-19 test results for patients include DSH patients who are tested while receiving treatment at an outside medical facility. Data has been de-identified in accordance with CHHS Data De-identification Guidelines. Counts between 1-10 are masked with ""<11"". Includes Patients Under Investigation (PUIs) testing and proactive testing of asymptomatic patients for surveillance of geriatric, medically fragile, and skilled nursing facility units and for patients upon admission, re-admission, or discharge. Includes all individuals who were positive for COVID-19 at time of death, regardless of underlying health conditions or whether the cause of death has been confirmed to be COVID-19 related illness.",2020-11-12T16:02:46.002910,public,31f19bf7-2ca3-4834-8e2f-5551c0c72c8c,http://www.dsh.ca.gov/
+dcat:Distribution,CSV,COVID-19 Patient Data,nan,https://data.chhs.ca.gov/dataset/31f19bf7-2ca3-4834-8e2f-5551c0c72c8c/resource/f349bee2-550e-4043-a0ea-5c307da85a51/download/covid19_patient_10.30.2020.csv,COVID-19 Patient Data,"#DSH COVID-19 Patient Testing: Last updated - 10/30/2020
+
+DSH COVID-19 Patient Data reports on patient positives and testing counts at the facility level for DSH.  The table reports on the following data fields: 
+
+* Total patients that tested positive for COVID-19 since 5/16/2020
+
+* Patients newly positive for COVID-19 in the last 14 days
+
+* Patient deaths while patient was positive for COVID-19 since 5/30/2020
+
+* Total number of tests administered since 3/23/2020
+
+##Table Notes: 
+
+COVID-19 test results for patients include DSH patients who are tested while receiving treatment at an outside medical facility. Data has been de-identified in accordance with CHHS Data De-identification Guidelines. Counts between 1-10 are masked with ""<11"". Includes Patients Under Investigation (PUIs) testing and proactive testing of asymptomatic patients for surveillance of geriatric, medically fragile, and skilled nursing facility units and for patients upon admission, re-admission, or discharge. Includes all individuals who were positive for COVID-19 at time of death, regardless of underlying health conditions or whether the cause of death has been confirmed to be COVID-19 related illness.",2020-11-12T16:02:46.002910,public,31f19bf7-2ca3-4834-8e2f-5551c0c72c8c,http://www.dsh.ca.gov/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/1aec099c-2c77-4a17-a03d-a9499663d367/resource/2f3f837c-42a0-43b3-b874-86a56bd06460/download/information-assistance-calls-in-response-to-covid-19-c2buh9.zip,Information & Assistance Calls Provided to Older Adults in Response to COVID-19,"In response to COVID-19, regional Area Agencies on Aging (AAA) and their sub-contractors have been providing additional Information & Assistance calls to connect older adults, adults with disabilities, families, and caregivers to services in the community.",2020-10-21T23:51:45.550971,public,1aec099c-2c77-4a17-a03d-a9499663d367,https://aging.ca.gov/Programs_and_Services/Home_and_Community_Services/
+dcat:Distribution,CSV,Information & Assistance Calls in Response to COVID-19,"In response to COVID-19, regional Area Agencies on Aging (AAA) and their sub-contractors have been providing additional Information & Assistance calls to connect older adults, adults with disabilities, families, and caregivers to services in the community.",https://data.chhs.ca.gov/dataset/1aec099c-2c77-4a17-a03d-a9499663d367/resource/5dcbf905-bdb8-495d-8159-474a035eb7fa/download/cda_information_and_assistance_suppressed.csv,Information & Assistance Calls Provided to Older Adults in Response to COVID-19,"In response to COVID-19, regional Area Agencies on Aging (AAA) and their sub-contractors have been providing additional Information & Assistance calls to connect older adults, adults with disabilities, families, and caregivers to services in the community.",2020-10-21T23:51:45.550971,public,1aec099c-2c77-4a17-a03d-a9499663d367,https://aging.ca.gov/Programs_and_Services/Home_and_Community_Services/
+dcat:Distribution,PDF,CDA planning and service areas' descriptions,CDA planning and service area descriptions,https://data.chhs.ca.gov/dataset/1aec099c-2c77-4a17-a03d-a9499663d367/resource/a7be9219-1a85-4359-be0c-4a88c0e5d90b/download/psa-services-description-updated.pdf,Information & Assistance Calls Provided to Older Adults in Response to COVID-19,"In response to COVID-19, regional Area Agencies on Aging (AAA) and their sub-contractors have been providing additional Information & Assistance calls to connect older adults, adults with disabilities, families, and caregivers to services in the community.",2020-10-21T23:51:45.550971,public,1aec099c-2c77-4a17-a03d-a9499663d367,https://aging.ca.gov/Programs_and_Services/Home_and_Community_Services/
+dcat:Distribution,PDF,CDA planning and service areas map,nan,https://data.chhs.ca.gov/dataset/1aec099c-2c77-4a17-a03d-a9499663d367/resource/d61d6440-3159-43b5-840e-73418aca0456/download/cda-planning-and-service-areas-map.pdf,Information & Assistance Calls Provided to Older Adults in Response to COVID-19,"In response to COVID-19, regional Area Agencies on Aging (AAA) and their sub-contractors have been providing additional Information & Assistance calls to connect older adults, adults with disabilities, families, and caregivers to services in the community.",2020-10-21T23:51:45.550971,public,1aec099c-2c77-4a17-a03d-a9499663d367,https://aging.ca.gov/Programs_and_Services/Home_and_Community_Services/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/d22ba64d-d753-4b03-9023-ceae3bd3630b/resource/e1980858-9301-492e-9446-c5577706ff54/download/home-delivered-meals-in-response-to-covid-19-druyhl.zip,Home Delivered Meals Provided to Older Adults in Response to COVID-19,"In response to COVID-19, California’s 33 Area Agencies on Aging (AAA) and their sub-contractors have temporarily transformed their method of delivering nutrition services to home-delivered meals for clients who formerly received meals at congregate nutrition sites. This dataset shows the number of meals served, number and people served by week and Planning and Service Area (PSA).",2020-10-21T23:01:07.035008,public,d22ba64d-d753-4b03-9023-ceae3bd3630b,https://aging.ca.gov/Programs_and_Services/Food_and_Nutrition/
+dcat:Distribution,CSV,CDA Home Delivered Meals,"This dataset shows the number of meals served, number and people served by week and Planning and Service Area (PSA).",https://data.chhs.ca.gov/dataset/d22ba64d-d753-4b03-9023-ceae3bd3630b/resource/cfe98f76-3743-40e0-8c01-617157a43308/download/cda_home_delivered_meals.csv,Home Delivered Meals Provided to Older Adults in Response to COVID-19,"In response to COVID-19, California’s 33 Area Agencies on Aging (AAA) and their sub-contractors have temporarily transformed their method of delivering nutrition services to home-delivered meals for clients who formerly received meals at congregate nutrition sites. This dataset shows the number of meals served, number and people served by week and Planning and Service Area (PSA).",2020-10-21T23:01:07.035008,public,d22ba64d-d753-4b03-9023-ceae3bd3630b,https://aging.ca.gov/Programs_and_Services/Food_and_Nutrition/
+dcat:Distribution,PDF,CDA planning and service areas' descriptions,nan,https://data.chhs.ca.gov/dataset/d22ba64d-d753-4b03-9023-ceae3bd3630b/resource/3b042437-94fe-43e3-bd97-394b3845e21a/download/psa-services-description-updated.pdf,Home Delivered Meals Provided to Older Adults in Response to COVID-19,"In response to COVID-19, California’s 33 Area Agencies on Aging (AAA) and their sub-contractors have temporarily transformed their method of delivering nutrition services to home-delivered meals for clients who formerly received meals at congregate nutrition sites. This dataset shows the number of meals served, number and people served by week and Planning and Service Area (PSA).",2020-10-21T23:01:07.035008,public,d22ba64d-d753-4b03-9023-ceae3bd3630b,https://aging.ca.gov/Programs_and_Services/Food_and_Nutrition/
+dcat:Distribution,PDF,CDA planning and service areas' map,nan,https://data.chhs.ca.gov/dataset/d22ba64d-d753-4b03-9023-ceae3bd3630b/resource/e568d381-bbd7-4820-b496-b939398ef47a/download/cda-planning-and-service-areas-map.pdf,Home Delivered Meals Provided to Older Adults in Response to COVID-19,"In response to COVID-19, California’s 33 Area Agencies on Aging (AAA) and their sub-contractors have temporarily transformed their method of delivering nutrition services to home-delivered meals for clients who formerly received meals at congregate nutrition sites. This dataset shows the number of meals served, number and people served by week and Planning and Service Area (PSA).",2020-10-21T23:01:07.035008,public,d22ba64d-d753-4b03-9023-ceae3bd3630b,https://aging.ca.gov/Programs_and_Services/Food_and_Nutrition/
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/d71df234-7ba1-42e7-98bc-160a55beb7d1/resource/887d9339-db5c-4703-acf9-d293fb73670d/download/friendship-line-california-calls-in-response-to-covid-19-1o8va8.zip,Friendship Line Services Provided to Older Adults in Response to COVID-19,"In response to increased social isolation experienced by older adults and their families due to COVID-19, the California Department of Aging partnered with the Institute on Aging to expand services of the Friendship Line statewide. Friendship Line California is an accredited 24-hour toll-free hotline for older adults and adults with disabilities. The line is staffed by trained volunteers who specialize in having caring and friendly conversations.",2020-10-21T22:49:29.513284,public,d71df234-7ba1-42e7-98bc-160a55beb7d1,https://www.ioaging.org/friendship-line-california
+dcat:Distribution,CSV,Friendship Line California Calls in Response to COVID-19,"Friendship Line California is an accredited 24-hour toll-free hotline for older adults and adults with disabilities who may be experiencing thoughts of suicide, anxiety, or depression. The line is staffed by trained volunteers who specialize in offering a caring ear and having a friendly conversation with depressed older adults. This dataset shows incoming calls by county by day.",https://data.chhs.ca.gov/dataset/d71df234-7ba1-42e7-98bc-160a55beb7d1/resource/7d7b56ef-591b-4c83-86e8-c18d52cbcb8b/download/friendshipline_odp_april-2020-to-october-2020_suppressed.csv,Friendship Line Services Provided to Older Adults in Response to COVID-19,"In response to increased social isolation experienced by older adults and their families due to COVID-19, the California Department of Aging partnered with the Institute on Aging to expand services of the Friendship Line statewide. Friendship Line California is an accredited 24-hour toll-free hotline for older adults and adults with disabilities. The line is staffed by trained volunteers who specialize in having caring and friendly conversations.",2020-10-21T22:49:29.513284,public,d71df234-7ba1-42e7-98bc-160a55beb7d1,https://www.ioaging.org/friendship-line-california
+dcat:Distribution,HTML,ArcGIS Hub Dataset,nan,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,Esri REST,Esri Rest API,nan,https://services.arcgis.com/BLN4oKB0N1YSgvY8/arcgis/rest/services/State_Test_Sites/FeatureServer/0,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,GeoJSON,GeoJSON,nan,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,CSV,CSV,nan,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,KML,KML,nan,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,ZIP,Shapefile,nan,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/466f95f4-5610-4eb2-ba85-11ebedb3a1c5/resource/646344e4-c8c5-40e4-9b90-7516e9bad6af/download/2020-covid-19-public-health-and-medical-state-sponsored-testing-sites-public-layer1-jkmu90.zip,2020 COVID-19 - Public Health and Medical - State Sponsored Testing Sites Public Layer,"<div>This feature layer contains the authoritative list of state-sponsored test sites from OPTUMServe Health Services and Verily. The data in this layer is a <b>public view</b> and contains information on each collection site such as address, hours of operation, and relevant notes. <div><br /></div><div>This layer is not editable and intended for <b>view-only </b>use in public maps and applications. </div></div>",2020-10-21T18:04:58.467948,public,466f95f4-5610-4eb2-ba85-11ebedb3a1c5,https://cdph-chhsagency.opendata.arcgis.com/datasets/7e0af834587841f69e6f6a38a9c627e8_0
+dcat:Distribution,CSV,HCP Influenza Vaccination by County 2018-2019,"This table shows the data for health care personnel (HCP) influenza vaccination by county for the 2018-19 influenza season reported by California general acute care hospitals to the Centers for Disease Control and Prevention (CDC) National Healthcare Safety Network (NHSN Data were downloaded on May 21, 2019.",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/8c13e632-8a30-408b-afc7-0f31516c9bbe/download/odp_hcp_flu_vaccination_by_county_2018-19_season_final.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary for HCP Influenza Vaccination by County 2018-2019 data file,Data Dictionary for HCP Influenza Vaccination by County 2018-2019 data file,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/b12bf5c2-2a31-4e1a-81e6-8ce070e56258/download/odp_hcp_flu_vaccination_by_county_2018-19_datadictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,CSV,HCP Influenza Vaccination by Hosp & County 2018-2019,"This table shows the data for health care personnel (HCP) influenza vaccination by hospital and county for the 2018-19 influenza season reported by California general acute care hospitals to the Centers for Disease Control and Prevention (CDC) National Healthcare Safety Network (NHSN. Data were downloaded on May 21, 2019.",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/6e71b5a5-1148-4d75-a6b5-cb4cb24c405e/download/odp_hcp_flu_vaccination_by_hospital_and_county_2018-19_season_final.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary-HCP Influenza Vaccination by Hospital and County 2018-2019,Data Dictionary for HCP Influenza Vaccination by Hospital and County 2018-2019 data file,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/3ac9b8c0-54ba-4453-b7f8-881eb337f5f0/download/odp_hcp_flu_vaccination_by_hospital_and_county_2018-19_datadictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,CSV,HCP Influenza Vaccination by County 2017-2018,"This table shows the data for health care personnel (HCP) influenza vaccination by county for the 2017-18 influenza season reported by California general acute care hospitals. The counties with or without health orders requiring HCP who decline vaccination to wear surgical masks during influenza season are indicated as mask required yes/no. The HCP influenza vaccination rates are presented for each county. Based on the national Healthy People 2020 goal of 90% HCP influenza vaccination, hospitals that achieved the Healthy People 2010 goal of 60% vaccination need to increase their annual vaccination percentage by at least 3% per year to reach 90% by 2020. In 2017-18, hospitals should have achieved at least 84% vaccination coverage to demonstrate sufficient incremental progress to reach 90% by 2020. It is indicated (yes/no) whether a county is on track to achieve the 90% goal by 2020.
+Note: The Inpatient Rehabilitation Facilities (IRF) are excluded, for detailed explanation see Technical Notes. Two counties are excluded from this report. Alpine County has a mask policy but no acute care hospital, therefore, is not subject to these reporting requirements. Sierra County has no mask policy and no acute care hospital. Source: Influenza Vaccination among Health Care Personnel in California General Acute Care Hospitals for the 2017-18 Respiratory Season. Healthcare Associated Infections Program, California Department of Public Health. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/377ee0bb-81ce-46eb-8290-20fec8fa4598/download/hcp-flu-vax-by-county-20172018-data.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary-HCP Influenza Vaccination by County 2017-2018,Data Dictionary for HCP Influenza Vaccination by County 2017-2018 data file,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/7f275196-c618-4d5e-9036-7c5eaa3d4438/download/2018-hcp-flu-vax-by-county-data-dictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,CSV,HCP Influenza Vaccination by Hosp & County 2017-2018,"This table shows the data for health care personnel (HCP) influenza vaccination by hospital and county for the 2017-18 influenza season reported by California general acute care hospitals. The counties with or without health orders requiring HCP who decline vaccination to wear surgical masks during influenza season are indicated as mask required yes/no. The HCP influenza vaccination rates are presented for each county. Based on the national Healthy People 2020 goal of 90% HCP influenza vaccination, hospitals that achieved the Healthy People 2010 goal of 60% vaccination need to increase their annual vaccination percentage by at least 3% per year to reach 90% by 2020. In 2017-18, hospitals should have achieved at least 84% vaccination coverage to demonstrate sufficient incremental progress to reach 90% by 2020. It is indicated (yes/no) whether a county is on track to achieve the 90% goal by 2020.
+Note: The Inpatient Rehabilitation Facilities (IRF) are excluded, for detailed explanation see Technical Notes. Two counties are excluded from this report. Alpine County has a mask policy but no acute care hospital, therefore, is not subject to these reporting requirements. Sierra County has no mask policy and no acute care hospital. Source: Influenza Vaccination among Health Care Personnel in California General Acute Care Hospitals for the 2017-18 Respiratory Season. Healthcare Associated Infections Program, California Department of Public Health. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/a0493b51-7630-4000-914c-efdbfef42ab6/download/hcp_flu_vaccination_by_hospital_and_county_2017-18_season_072419.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary-HCP Influenza Vaccination by Hospital and County 2017-2018,Data Dictionary for HCP Influenza Vaccination by Hospital and County 2017-2018 data file,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/213ef1d3-afce-4bcd-a9cf-a3ff16cc615e/download/hcp_flu_vaccination_by_hospital_and_county_2017-18_season_072419_data_dictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,CSV,HCP Influenza Vaccination by County 2016-2017,"This table shows the data for health care personnel (HCP) influenza vaccination by county for the 2016-2017 influenza season reported by California general acute care hospitals. The counties with or without health orders requiring HCP who decline vaccination to wear surgical masks during influenza season are indicated as mask required yes/no. The HCP influenza vaccination rates are presented for each county. Based on the national Healthy People 2020 goal of 90% HCP influenza vaccination, hospitals that achieved the Healthy People 2010 goal of 60% vaccination need to increase their annual vaccination percentage by at least 3% per year to reach 90% by 2020. In 2016-2017, hospitals should have achieved at least 81% vaccination coverage to demonstrate sufficient incremental progress to reach 90% by 2020. It is indicated (yes/no) whether a county is on track to achieve the 90% goal by 2020.
+
+Note: The Inpatient Rehabilitation Facilities (IRF) are excluded, for detailed explanation see Technical Notes. Two counties are excluded from this report. Alpine County has a mask policy but no acute care hospital, therefore, is not subject to these reporting requirements. Sierra County has no mask policy and no acute care hospital. Source: Influenza Vaccination among Health Care Personnel in California General Acute Care Hospitals for the 2016-2017 Respiratory Season. Healthcare Associated Infections Program, California Department of Public Health. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/ff549da7-7c12-48c9-97af-3d423d6b5399/download/hcp-flu-vax-by-county-20162017-data.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary-HCP Influenza Vaccination by County 2016-2017,Data dictionary for the HCP Influenza Vaccination by County data file.,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/68d8d209-b8b4-4085-86f0-d9daec1734a0/download/hcp-flu-vax-by-county-datadictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,CSV,HCP Influenza Vaccination by Hosp & County 2016-2017,"This table shows the data for health care personnel (HCP) influenza vaccination by hospital and county for the 2016-2017 influenza season reported by California general acute care hospitals. The counties with or without health orders requiring HCP who decline vaccination to wear surgical masks during influenza season are indicated as mask required yes/no. The HCP influenza vaccination rates are presented for each county. Based on the national Healthy People 2020 goal of 90% HCP influenza vaccination, hospitals that achieved the Healthy People 2010 goal of 60% vaccination need to increase their annual vaccination percentage by at least 3% per year to reach 90% by 2020. In 2016-2017, hospitals should have achieved at least 81% vaccination coverage to demonstrate sufficient incremental progress to reach 90% by 2020. It is indicated (yes/no) whether a county is on track to achieve the 90% goal by 2020.  
+
+Note: The Inpatient Rehabilitation Facilities (IRF) are excluded, for detailed explanation see Technical Notes. Two counties are excluded from this report. Alpine County has a mask policy but no acute care hospital, therefore, is not subject to these reporting requirements. Sierra County has no mask policy and no acute care hospital. Source: Influenza Vaccination among Health Care Personnel in California General Acute Care Hospitals for the 2016-2017 Respiratory Season. Healthcare Associated Infections Program, California Department of Public Health. https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx",https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/97753b3f-eb3f-4088-a8c4-7b8651318ab6/download/hcp-flu-vax-by-hospital-and-county-20162017-data.csv,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,XLSX,Data Dictionary-HCP Influenza Vaccination by Hospital and County 2016-2017,Data dictionary for the HCP Influenza Vaccination by Hospital and County data file.,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/a8a64983-4135-464c-b3b7-d75750c32e83/download/hcp-flu-vax-by-hospital-and-county-datadictionary.xlsx,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx
+dcat:Distribution,ZIP,All resource data,nan,https://data.chhs.ca.gov/dataset/690e3c15-371c-4445-bb43-04e0f926dd88/resource/170b115f-dfc9-4128-92d0-87b643ce7c1c/download/cdph-health-care-personnel-influenza-vaccination-95ed7x.zip,Health Care Personnel Influenza Vaccination,"Health and Safety Code section 1288.7(a) requires California acute care hospitals to offer influenza vaccine free of charge to all healthcare providers (HCP) or sign a declination form if a HCP chooses not to be vaccinated. Hospitals must report HCP influenza vaccination data to the California Department of Public Health (CDPH), including the percentage of HCP vaccinated. CDPH is required to make this information public on an annual basis [Health and Safety Code section 1288.8 (b)].
+
+California acute care hospitals are required to offer free influenza vaccine to HCP. Hospital HCP must receive an annual vaccine or sign a declination form. Hospitals collect vaccination data for all HCP physically working in the hospital for at least one day during influenza season, regardless of clinical responsibility or patient contact. Hospitals report HCP vaccination rates to the California Department of Public Health (CDPH) and CDPH publishes the hospital results annually. CDPH reports data separately for hospital employees, licensed independent practitioners such as physicians, other contract staff, and trainees and volunteers (Health and Safety Code section 1288.7-1288.8).
+
+Detailed information about the variables included in each dataset are described in the accompanying data dictionaries for the year of interest.
+
+For general information about NHSN, surveillance definitions, and reporting requirements for VRE, please visit: https://www.cdc.gov/nhsn/index.html 
+
+To link the CDPH facility IDs with those from other Departments, including OSHPD, please reference the ""Licensed Facility Cross-Walk"" Open Data table at: https://data.chhs.ca.gov/dataset/licensed-facility-crosswalk.
+
+For information about healthcare personnel influenza vaccinations in California hospitals, please visit: https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx 
+
+COVID-19 NOTICE:
+In response to the Governor’s state of emergency declaration related to COVID-19, on March 20, 2020, the California Department of Public Health (CDPH) distributed All Facilities Letter (AFL) 20-26, temporarily waiving hospital licensing requirements and suspending regulatory enforcement requirements in Chapter 2 of Division 2 of the Health and Safety Code (HSC) sections 1250-1339.59 (except for adverse event and unusual occurrence reporting, HSC 1279.1). 
+The CDPH suspension included waiving hospital reporting requirements for healthcare personnel influenza vaccination (HSC 1288.55 and 1288.8) through June 30, 2020 . Therefore, no healthcare personnel vaccination data for the 2019-2020 influenza season are available.",2020-10-07T21:18:37.544800,public,690e3c15-371c-4445-bb43-04e0f926dd88,https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HAIProgramHome.aspx

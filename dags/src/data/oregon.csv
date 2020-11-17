@@ -1,0 +1,29 @@
+distribution_type,distribution_downloadURL,distribution_mediaType,distribution_describedBy,distribution_describedByType,title,description,modified,accessLevel,identifier,landingPage
+dcat:Distribution,https://data.oregon.gov/api/views/iqea-tt27/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Agency Admin Rules Links-{COVID-19: Suspension Exec Order 20-03},"{COVID-19: Administrative Rules – Suspension (Executive Order 20-03)}
+03.19.20 - “Pursuant to her emergency powers according to ORS 401.168(2), Governor Brown has ordered administrative rules suspended for the duration of the COVID-19 state of emergency declared by Executive Order 20-03.​  You may view those rules the Governor has suspended through the following link.”​​https://www.oregon.gov/gov/Pages/OAR-temporary-suspensions.aspx
+
+For more information visit Coronavirus/COVID-19 Information and Resources​.​
+https://www.oregon.gov/gov/Pages/coronavirus2020.aspx
+----------------------------------------------------------------------------
+HB 2370 (2013): Through this dataset, agencies provide links to their website pages that include administrative rules information. The information in this table is updated when new links are reported. For more information visit https://www.oregon.gov/transparency/Pages/index.aspx.",2020-04-18,public,https://data.oregon.gov/api/views/iqea-tt27,https://data.oregon.gov/d/iqea-tt27
+dcat:Distribution,https://data.oregon.gov/api/views/iqea-tt27/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.oregon.gov/api/views/iqea-tt27/columns.rdf,application/rdf+xml,Agency Admin Rules Links-{COVID-19: Suspension Exec Order 20-03},"{COVID-19: Administrative Rules – Suspension (Executive Order 20-03)}
+03.19.20 - “Pursuant to her emergency powers according to ORS 401.168(2), Governor Brown has ordered administrative rules suspended for the duration of the COVID-19 state of emergency declared by Executive Order 20-03.​  You may view those rules the Governor has suspended through the following link.”​​https://www.oregon.gov/gov/Pages/OAR-temporary-suspensions.aspx
+
+For more information visit Coronavirus/COVID-19 Information and Resources​.​
+https://www.oregon.gov/gov/Pages/coronavirus2020.aspx
+----------------------------------------------------------------------------
+HB 2370 (2013): Through this dataset, agencies provide links to their website pages that include administrative rules information. The information in this table is updated when new links are reported. For more information visit https://www.oregon.gov/transparency/Pages/index.aspx.",2020-04-18,public,https://data.oregon.gov/api/views/iqea-tt27,https://data.oregon.gov/d/iqea-tt27
+dcat:Distribution,https://data.oregon.gov/api/views/iqea-tt27/rows.json?accessType=DOWNLOAD,application/json,https://data.oregon.gov/api/views/iqea-tt27/columns.json,application/json,Agency Admin Rules Links-{COVID-19: Suspension Exec Order 20-03},"{COVID-19: Administrative Rules – Suspension (Executive Order 20-03)}
+03.19.20 - “Pursuant to her emergency powers according to ORS 401.168(2), Governor Brown has ordered administrative rules suspended for the duration of the COVID-19 state of emergency declared by Executive Order 20-03.​  You may view those rules the Governor has suspended through the following link.”​​https://www.oregon.gov/gov/Pages/OAR-temporary-suspensions.aspx
+
+For more information visit Coronavirus/COVID-19 Information and Resources​.​
+https://www.oregon.gov/gov/Pages/coronavirus2020.aspx
+----------------------------------------------------------------------------
+HB 2370 (2013): Through this dataset, agencies provide links to their website pages that include administrative rules information. The information in this table is updated when new links are reported. For more information visit https://www.oregon.gov/transparency/Pages/index.aspx.",2020-04-18,public,https://data.oregon.gov/api/views/iqea-tt27,https://data.oregon.gov/d/iqea-tt27
+dcat:Distribution,https://data.oregon.gov/api/views/iqea-tt27/rows.xml?accessType=DOWNLOAD,application/xml,https://data.oregon.gov/api/views/iqea-tt27/columns.svc,application/xml,Agency Admin Rules Links-{COVID-19: Suspension Exec Order 20-03},"{COVID-19: Administrative Rules – Suspension (Executive Order 20-03)}
+03.19.20 - “Pursuant to her emergency powers according to ORS 401.168(2), Governor Brown has ordered administrative rules suspended for the duration of the COVID-19 state of emergency declared by Executive Order 20-03.​  You may view those rules the Governor has suspended through the following link.”​​https://www.oregon.gov/gov/Pages/OAR-temporary-suspensions.aspx
+
+For more information visit Coronavirus/COVID-19 Information and Resources​.​
+https://www.oregon.gov/gov/Pages/coronavirus2020.aspx
+----------------------------------------------------------------------------
+HB 2370 (2013): Through this dataset, agencies provide links to their website pages that include administrative rules information. The information in this table is updated when new links are reported. For more information visit https://www.oregon.gov/transparency/Pages/index.aspx.",2020-04-18,public,https://data.oregon.gov/api/views/iqea-tt27,https://data.oregon.gov/d/iqea-tt27

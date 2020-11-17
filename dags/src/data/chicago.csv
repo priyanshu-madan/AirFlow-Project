@@ -1,0 +1,545 @@
+distribution_type,distribution_downloadURL,distribution_mediaType,distribution_describedBy,distribution_describedByType,title,description,modified,accessLevel,identifier,landingPage
+dcat:Distribution,https://data.cityofchicago.org/api/views/b5gf-tb76/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Wi Fi Usage,"The Chicago Public Library offers free WiFi at all locations. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/b5gf-tb76,https://data.cityofchicago.org/d/b5gf-tb76
+dcat:Distribution,https://data.cityofchicago.org/api/views/b5gf-tb76/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/b5gf-tb76/columns.rdf,application/rdf+xml,Libraries - 2020 Wi Fi Usage,"The Chicago Public Library offers free WiFi at all locations. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/b5gf-tb76,https://data.cityofchicago.org/d/b5gf-tb76
+dcat:Distribution,https://data.cityofchicago.org/api/views/b5gf-tb76/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/b5gf-tb76/columns.json,application/json,Libraries - 2020 Wi Fi Usage,"The Chicago Public Library offers free WiFi at all locations. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/b5gf-tb76,https://data.cityofchicago.org/d/b5gf-tb76
+dcat:Distribution,https://data.cityofchicago.org/api/views/b5gf-tb76/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/b5gf-tb76/columns.svc,application/xml,Libraries - 2020 Wi Fi Usage,"The Chicago Public Library offers free WiFi at all locations. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/b5gf-tb76,https://data.cityofchicago.org/d/b5gf-tb76
+dcat:Distribution,https://data.cityofchicago.org/api/views/brju-5v96/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Computer Sessions by Location,"The Chicago Public Library offers one-hour computer sessions and 15-minute computer sessions. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+NOTE: The equivalent dataset for past years used the column name LOCATION for the name of the library. This column has been renamed BRANCH for this dataset in order to allow for a LOCATION column containing the mappable location of the facility.",2020-10-26,public,https://data.cityofchicago.org/api/views/brju-5v96,https://data.cityofchicago.org/d/brju-5v96
+dcat:Distribution,https://data.cityofchicago.org/api/views/brju-5v96/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/brju-5v96/columns.rdf,application/rdf+xml,Libraries - 2020 Computer Sessions by Location,"The Chicago Public Library offers one-hour computer sessions and 15-minute computer sessions. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+NOTE: The equivalent dataset for past years used the column name LOCATION for the name of the library. This column has been renamed BRANCH for this dataset in order to allow for a LOCATION column containing the mappable location of the facility.",2020-10-26,public,https://data.cityofchicago.org/api/views/brju-5v96,https://data.cityofchicago.org/d/brju-5v96
+dcat:Distribution,https://data.cityofchicago.org/api/views/brju-5v96/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/brju-5v96/columns.json,application/json,Libraries - 2020 Computer Sessions by Location,"The Chicago Public Library offers one-hour computer sessions and 15-minute computer sessions. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+NOTE: The equivalent dataset for past years used the column name LOCATION for the name of the library. This column has been renamed BRANCH for this dataset in order to allow for a LOCATION column containing the mappable location of the facility.",2020-10-26,public,https://data.cityofchicago.org/api/views/brju-5v96,https://data.cityofchicago.org/d/brju-5v96
+dcat:Distribution,https://data.cityofchicago.org/api/views/brju-5v96/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/brju-5v96/columns.svc,application/xml,Libraries - 2020 Computer Sessions by Location,"The Chicago Public Library offers one-hour computer sessions and 15-minute computer sessions. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+NOTE: The equivalent dataset for past years used the column name LOCATION for the name of the library. This column has been renamed BRANCH for this dataset in order to allow for a LOCATION column containing the mappable location of the facility.",2020-10-26,public,https://data.cityofchicago.org/api/views/brju-5v96,https://data.cityofchicago.org/d/brju-5v96
+dcat:Distribution,https://data.cityofchicago.org/api/views/cjy2-75rw/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Holds Filled by Location,"This data is for materials pulled to fulfill patron holds. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/cjy2-75rw,https://data.cityofchicago.org/d/cjy2-75rw
+dcat:Distribution,https://data.cityofchicago.org/api/views/cjy2-75rw/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/cjy2-75rw/columns.rdf,application/rdf+xml,Libraries - 2020 Holds Filled by Location,"This data is for materials pulled to fulfill patron holds. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/cjy2-75rw,https://data.cityofchicago.org/d/cjy2-75rw
+dcat:Distribution,https://data.cityofchicago.org/api/views/cjy2-75rw/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/cjy2-75rw/columns.json,application/json,Libraries - 2020 Holds Filled by Location,"This data is for materials pulled to fulfill patron holds. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/cjy2-75rw,https://data.cityofchicago.org/d/cjy2-75rw
+dcat:Distribution,https://data.cityofchicago.org/api/views/cjy2-75rw/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/cjy2-75rw/columns.svc,application/xml,Libraries - 2020 Holds Filled by Location,"This data is for materials pulled to fulfill patron holds. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/cjy2-75rw,https://data.cityofchicago.org/d/cjy2-75rw
+dcat:Distribution,https://data.cityofchicago.org/api/views/e68t-c7fv/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,COVID-19 Daily Rolling Average Case and Death Rates,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset is a companion to the COVID-19 Daily Cases and Deaths dataset (https://data.cityofchicago.org/d/naz8-j4nc). The major difference in this dataset is that the cases, deaths, and corresponding rates per 100,000 population are not those for the single date indicated. They are rolling averages for the seven-day period ending on that date. This rolling average is used to account for fluctuations that may occur in the data, such as fewer cases being reported on weekends, and small numbers.  The intent is to give a more representative view of the ongoing COVID-19 experience, less affected by what is essentially noise in the data.
+
+All rates are per 100,000 population in the indicated group, or Chicago, as a whole, for “Total” columns.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Denominators are from the U.S. Census Bureau American Community Survey 1-year estimate for 2018 and can be seen in the Citywide, 2018 row of the Chicago Population Counts dataset (https://data.cityofchicago.org/d/85cm-7uqa).
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects cases and deaths currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, U.S. Census Bureau American Community Survey",2020-11-17,public,https://data.cityofchicago.org/api/views/e68t-c7fv,https://data.cityofchicago.org/d/e68t-c7fv
+dcat:Distribution,https://data.cityofchicago.org/api/views/e68t-c7fv/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/e68t-c7fv/columns.rdf,application/rdf+xml,COVID-19 Daily Rolling Average Case and Death Rates,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset is a companion to the COVID-19 Daily Cases and Deaths dataset (https://data.cityofchicago.org/d/naz8-j4nc). The major difference in this dataset is that the cases, deaths, and corresponding rates per 100,000 population are not those for the single date indicated. They are rolling averages for the seven-day period ending on that date. This rolling average is used to account for fluctuations that may occur in the data, such as fewer cases being reported on weekends, and small numbers.  The intent is to give a more representative view of the ongoing COVID-19 experience, less affected by what is essentially noise in the data.
+
+All rates are per 100,000 population in the indicated group, or Chicago, as a whole, for “Total” columns.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Denominators are from the U.S. Census Bureau American Community Survey 1-year estimate for 2018 and can be seen in the Citywide, 2018 row of the Chicago Population Counts dataset (https://data.cityofchicago.org/d/85cm-7uqa).
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects cases and deaths currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, U.S. Census Bureau American Community Survey",2020-11-17,public,https://data.cityofchicago.org/api/views/e68t-c7fv,https://data.cityofchicago.org/d/e68t-c7fv
+dcat:Distribution,https://data.cityofchicago.org/api/views/e68t-c7fv/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/e68t-c7fv/columns.json,application/json,COVID-19 Daily Rolling Average Case and Death Rates,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset is a companion to the COVID-19 Daily Cases and Deaths dataset (https://data.cityofchicago.org/d/naz8-j4nc). The major difference in this dataset is that the cases, deaths, and corresponding rates per 100,000 population are not those for the single date indicated. They are rolling averages for the seven-day period ending on that date. This rolling average is used to account for fluctuations that may occur in the data, such as fewer cases being reported on weekends, and small numbers.  The intent is to give a more representative view of the ongoing COVID-19 experience, less affected by what is essentially noise in the data.
+
+All rates are per 100,000 population in the indicated group, or Chicago, as a whole, for “Total” columns.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Denominators are from the U.S. Census Bureau American Community Survey 1-year estimate for 2018 and can be seen in the Citywide, 2018 row of the Chicago Population Counts dataset (https://data.cityofchicago.org/d/85cm-7uqa).
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects cases and deaths currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, U.S. Census Bureau American Community Survey",2020-11-17,public,https://data.cityofchicago.org/api/views/e68t-c7fv,https://data.cityofchicago.org/d/e68t-c7fv
+dcat:Distribution,https://data.cityofchicago.org/api/views/e68t-c7fv/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/e68t-c7fv/columns.svc,application/xml,COVID-19 Daily Rolling Average Case and Death Rates,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset is a companion to the COVID-19 Daily Cases and Deaths dataset (https://data.cityofchicago.org/d/naz8-j4nc). The major difference in this dataset is that the cases, deaths, and corresponding rates per 100,000 population are not those for the single date indicated. They are rolling averages for the seven-day period ending on that date. This rolling average is used to account for fluctuations that may occur in the data, such as fewer cases being reported on weekends, and small numbers.  The intent is to give a more representative view of the ongoing COVID-19 experience, less affected by what is essentially noise in the data.
+
+All rates are per 100,000 population in the indicated group, or Chicago, as a whole, for “Total” columns.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Denominators are from the U.S. Census Bureau American Community Survey 1-year estimate for 2018 and can be seen in the Citywide, 2018 row of the Chicago Population Counts dataset (https://data.cityofchicago.org/d/85cm-7uqa).
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects cases and deaths currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, U.S. Census Bureau American Community Survey",2020-11-17,public,https://data.cityofchicago.org/api/views/e68t-c7fv,https://data.cityofchicago.org/d/e68t-c7fv
+dcat:Distribution,https://data.cityofchicago.org/api/views/f3he-c6sv/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,COVID-19 Hospital Capacity Metrics,"This is the place to look for important information about how to use this dataset, so please expand this box and read on! This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/hospital-capacity.html
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+All Chicago area (EMS Region XI) hospitals (n=27) are required to report bed and ventilator capacity, availability, and occupancy to the Chicago Department of Public Health (CDPH) daily. A list of reporting hospitals is included below. All data represent hospital status as of 11:59 pm for that calendar day. Counts include Chicago residents and non-residents.
+
+ICU bed counts include both adult and pediatric ICU beds. Neonatal ICU beds are not included. Capacity refers to all staffed adult and pediatric ICU beds. Availability refers to all available/vacant adult and pediatric ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in ICU on 03/19/2020. Hospitals began reporting ICU surge capacity as part of total capacity on 5/18/2020.
+
+Acute non-ICU bed counts include burn unit, emergency department, medical/surgery (ward), other, pediatrics (pediatric ward) and psychiatry beds. Burn beds include those approved by the American Burn Association or self-designated. Capacity refers to all staffed acute non-ICU beds. An additional 500 acute/non-ICU beds were added at McCormick Place on 4/15/2020. These beds are not included in the total capacity count. The McCormick Place Treatment Facility closed on 05/08/2020. Availability refers to all available/vacant acute non-ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in acute non-ICU beds on 04/03/2020.
+
+Ventilator counts prior to 04/24/2020 include all full-functioning mechanical ventilators, with BiPAP, anesthesia machines and portable/transport ventilators counted as surge. Beginning 04/24/2020, ventilator counts include all full-functioning mechanical ventilators, BiPAP, anesthesia machines and portable/transport ventilators. Ventilators are counted regardless of ability to staff. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases on ventilator on 03/19/2020. CDPH has access to additional ventilators from the EAMC (Emergency Asset Management Center) cache. These ventilators are included in the total capacity count.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Chicago (EMS Region XI) hospitals: Advocate Illinois Masonic Medical Center, Advocate Trinity Hospital, AMITA Resurrection Medical Ctr Chicago, AMITA Saint Joseph Hospital Chicago, AMITA Saints Mary & Elizabeth Med Center, Ann & Robert H Lurie Children's Hospital, Comer Children's Hospital, Community First Medical Center, Holy Cross Hospital, Jackson Park Hospital & Medical Center, John H. Stroger Jr. Hospital Cook County, Loretto Hospital, Mercy Hospital and Medical Center, Methodist Hospital of Chicago, Mount Sinai Hospital, Northwestern Memorial Hospital, Norwegian American Hospital, Roseland Community Hospital, Rush University Medical Center, Saint Anthony Hospital, Saint Bernard Hospital, South Shore Hospital, Swedish Hospital, Thorek Memorial Hospital,
+
+University of Chicago Medical Center, University of Illinois Hospital & HSS, Weiss Memorial Hospital.
+
+Chicago (EMS Region XI) specialty hospitals: Provident Hospital/Cook County, RML Specialty Hospital, Chicago Lakeshore Hospital. Shirley Ryan AbilityLab (previously RIC), VA/Jesse Brown, Kindred Chicago – North, Hartgrove Hospital, Kindred Chicago – Lakeshore, Kindred Chicago – Central, Shriners Hospital for Children – Chicago, LaRabida Hospital. Data Source: Hospitals reporting to CDPH via EMResource (Juvare)",2020-11-17,public,https://data.cityofchicago.org/api/views/f3he-c6sv,https://data.cityofchicago.org/d/f3he-c6sv
+dcat:Distribution,https://data.cityofchicago.org/api/views/f3he-c6sv/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/f3he-c6sv/columns.rdf,application/rdf+xml,COVID-19 Hospital Capacity Metrics,"This is the place to look for important information about how to use this dataset, so please expand this box and read on! This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/hospital-capacity.html
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+All Chicago area (EMS Region XI) hospitals (n=27) are required to report bed and ventilator capacity, availability, and occupancy to the Chicago Department of Public Health (CDPH) daily. A list of reporting hospitals is included below. All data represent hospital status as of 11:59 pm for that calendar day. Counts include Chicago residents and non-residents.
+
+ICU bed counts include both adult and pediatric ICU beds. Neonatal ICU beds are not included. Capacity refers to all staffed adult and pediatric ICU beds. Availability refers to all available/vacant adult and pediatric ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in ICU on 03/19/2020. Hospitals began reporting ICU surge capacity as part of total capacity on 5/18/2020.
+
+Acute non-ICU bed counts include burn unit, emergency department, medical/surgery (ward), other, pediatrics (pediatric ward) and psychiatry beds. Burn beds include those approved by the American Burn Association or self-designated. Capacity refers to all staffed acute non-ICU beds. An additional 500 acute/non-ICU beds were added at McCormick Place on 4/15/2020. These beds are not included in the total capacity count. The McCormick Place Treatment Facility closed on 05/08/2020. Availability refers to all available/vacant acute non-ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in acute non-ICU beds on 04/03/2020.
+
+Ventilator counts prior to 04/24/2020 include all full-functioning mechanical ventilators, with BiPAP, anesthesia machines and portable/transport ventilators counted as surge. Beginning 04/24/2020, ventilator counts include all full-functioning mechanical ventilators, BiPAP, anesthesia machines and portable/transport ventilators. Ventilators are counted regardless of ability to staff. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases on ventilator on 03/19/2020. CDPH has access to additional ventilators from the EAMC (Emergency Asset Management Center) cache. These ventilators are included in the total capacity count.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Chicago (EMS Region XI) hospitals: Advocate Illinois Masonic Medical Center, Advocate Trinity Hospital, AMITA Resurrection Medical Ctr Chicago, AMITA Saint Joseph Hospital Chicago, AMITA Saints Mary & Elizabeth Med Center, Ann & Robert H Lurie Children's Hospital, Comer Children's Hospital, Community First Medical Center, Holy Cross Hospital, Jackson Park Hospital & Medical Center, John H. Stroger Jr. Hospital Cook County, Loretto Hospital, Mercy Hospital and Medical Center, Methodist Hospital of Chicago, Mount Sinai Hospital, Northwestern Memorial Hospital, Norwegian American Hospital, Roseland Community Hospital, Rush University Medical Center, Saint Anthony Hospital, Saint Bernard Hospital, South Shore Hospital, Swedish Hospital, Thorek Memorial Hospital,
+
+University of Chicago Medical Center, University of Illinois Hospital & HSS, Weiss Memorial Hospital.
+
+Chicago (EMS Region XI) specialty hospitals: Provident Hospital/Cook County, RML Specialty Hospital, Chicago Lakeshore Hospital. Shirley Ryan AbilityLab (previously RIC), VA/Jesse Brown, Kindred Chicago – North, Hartgrove Hospital, Kindred Chicago – Lakeshore, Kindred Chicago – Central, Shriners Hospital for Children – Chicago, LaRabida Hospital. Data Source: Hospitals reporting to CDPH via EMResource (Juvare)",2020-11-17,public,https://data.cityofchicago.org/api/views/f3he-c6sv,https://data.cityofchicago.org/d/f3he-c6sv
+dcat:Distribution,https://data.cityofchicago.org/api/views/f3he-c6sv/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/f3he-c6sv/columns.json,application/json,COVID-19 Hospital Capacity Metrics,"This is the place to look for important information about how to use this dataset, so please expand this box and read on! This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/hospital-capacity.html
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+All Chicago area (EMS Region XI) hospitals (n=27) are required to report bed and ventilator capacity, availability, and occupancy to the Chicago Department of Public Health (CDPH) daily. A list of reporting hospitals is included below. All data represent hospital status as of 11:59 pm for that calendar day. Counts include Chicago residents and non-residents.
+
+ICU bed counts include both adult and pediatric ICU beds. Neonatal ICU beds are not included. Capacity refers to all staffed adult and pediatric ICU beds. Availability refers to all available/vacant adult and pediatric ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in ICU on 03/19/2020. Hospitals began reporting ICU surge capacity as part of total capacity on 5/18/2020.
+
+Acute non-ICU bed counts include burn unit, emergency department, medical/surgery (ward), other, pediatrics (pediatric ward) and psychiatry beds. Burn beds include those approved by the American Burn Association or self-designated. Capacity refers to all staffed acute non-ICU beds. An additional 500 acute/non-ICU beds were added at McCormick Place on 4/15/2020. These beds are not included in the total capacity count. The McCormick Place Treatment Facility closed on 05/08/2020. Availability refers to all available/vacant acute non-ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in acute non-ICU beds on 04/03/2020.
+
+Ventilator counts prior to 04/24/2020 include all full-functioning mechanical ventilators, with BiPAP, anesthesia machines and portable/transport ventilators counted as surge. Beginning 04/24/2020, ventilator counts include all full-functioning mechanical ventilators, BiPAP, anesthesia machines and portable/transport ventilators. Ventilators are counted regardless of ability to staff. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases on ventilator on 03/19/2020. CDPH has access to additional ventilators from the EAMC (Emergency Asset Management Center) cache. These ventilators are included in the total capacity count.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Chicago (EMS Region XI) hospitals: Advocate Illinois Masonic Medical Center, Advocate Trinity Hospital, AMITA Resurrection Medical Ctr Chicago, AMITA Saint Joseph Hospital Chicago, AMITA Saints Mary & Elizabeth Med Center, Ann & Robert H Lurie Children's Hospital, Comer Children's Hospital, Community First Medical Center, Holy Cross Hospital, Jackson Park Hospital & Medical Center, John H. Stroger Jr. Hospital Cook County, Loretto Hospital, Mercy Hospital and Medical Center, Methodist Hospital of Chicago, Mount Sinai Hospital, Northwestern Memorial Hospital, Norwegian American Hospital, Roseland Community Hospital, Rush University Medical Center, Saint Anthony Hospital, Saint Bernard Hospital, South Shore Hospital, Swedish Hospital, Thorek Memorial Hospital,
+
+University of Chicago Medical Center, University of Illinois Hospital & HSS, Weiss Memorial Hospital.
+
+Chicago (EMS Region XI) specialty hospitals: Provident Hospital/Cook County, RML Specialty Hospital, Chicago Lakeshore Hospital. Shirley Ryan AbilityLab (previously RIC), VA/Jesse Brown, Kindred Chicago – North, Hartgrove Hospital, Kindred Chicago – Lakeshore, Kindred Chicago – Central, Shriners Hospital for Children – Chicago, LaRabida Hospital. Data Source: Hospitals reporting to CDPH via EMResource (Juvare)",2020-11-17,public,https://data.cityofchicago.org/api/views/f3he-c6sv,https://data.cityofchicago.org/d/f3he-c6sv
+dcat:Distribution,https://data.cityofchicago.org/api/views/f3he-c6sv/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/f3he-c6sv/columns.svc,application/xml,COVID-19 Hospital Capacity Metrics,"This is the place to look for important information about how to use this dataset, so please expand this box and read on! This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/hospital-capacity.html
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+All Chicago area (EMS Region XI) hospitals (n=27) are required to report bed and ventilator capacity, availability, and occupancy to the Chicago Department of Public Health (CDPH) daily. A list of reporting hospitals is included below. All data represent hospital status as of 11:59 pm for that calendar day. Counts include Chicago residents and non-residents.
+
+ICU bed counts include both adult and pediatric ICU beds. Neonatal ICU beds are not included. Capacity refers to all staffed adult and pediatric ICU beds. Availability refers to all available/vacant adult and pediatric ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in ICU on 03/19/2020. Hospitals began reporting ICU surge capacity as part of total capacity on 5/18/2020.
+
+Acute non-ICU bed counts include burn unit, emergency department, medical/surgery (ward), other, pediatrics (pediatric ward) and psychiatry beds. Burn beds include those approved by the American Burn Association or self-designated. Capacity refers to all staffed acute non-ICU beds. An additional 500 acute/non-ICU beds were added at McCormick Place on 4/15/2020. These beds are not included in the total capacity count. The McCormick Place Treatment Facility closed on 05/08/2020. Availability refers to all available/vacant acute non-ICU beds. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases in acute non-ICU beds on 04/03/2020.
+
+Ventilator counts prior to 04/24/2020 include all full-functioning mechanical ventilators, with BiPAP, anesthesia machines and portable/transport ventilators counted as surge. Beginning 04/24/2020, ventilator counts include all full-functioning mechanical ventilators, BiPAP, anesthesia machines and portable/transport ventilators. Ventilators are counted regardless of ability to staff. Hospitals began reporting COVID-19 confirmed and suspected (PUI) cases on ventilator on 03/19/2020. CDPH has access to additional ventilators from the EAMC (Emergency Asset Management Center) cache. These ventilators are included in the total capacity count.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Chicago (EMS Region XI) hospitals: Advocate Illinois Masonic Medical Center, Advocate Trinity Hospital, AMITA Resurrection Medical Ctr Chicago, AMITA Saint Joseph Hospital Chicago, AMITA Saints Mary & Elizabeth Med Center, Ann & Robert H Lurie Children's Hospital, Comer Children's Hospital, Community First Medical Center, Holy Cross Hospital, Jackson Park Hospital & Medical Center, John H. Stroger Jr. Hospital Cook County, Loretto Hospital, Mercy Hospital and Medical Center, Methodist Hospital of Chicago, Mount Sinai Hospital, Northwestern Memorial Hospital, Norwegian American Hospital, Roseland Community Hospital, Rush University Medical Center, Saint Anthony Hospital, Saint Bernard Hospital, South Shore Hospital, Swedish Hospital, Thorek Memorial Hospital,
+
+University of Chicago Medical Center, University of Illinois Hospital & HSS, Weiss Memorial Hospital.
+
+Chicago (EMS Region XI) specialty hospitals: Provident Hospital/Cook County, RML Specialty Hospital, Chicago Lakeshore Hospital. Shirley Ryan AbilityLab (previously RIC), VA/Jesse Brown, Kindred Chicago – North, Hartgrove Hospital, Kindred Chicago – Lakeshore, Kindred Chicago – Central, Shriners Hospital for Children – Chicago, LaRabida Hospital. Data Source: Hospitals reporting to CDPH via EMResource (Juvare)",2020-11-17,public,https://data.cityofchicago.org/api/views/f3he-c6sv,https://data.cityofchicago.org/d/f3he-c6sv
+dcat:Distribution,https://data.cityofchicago.org/api/views/gkdw-2tgv/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,COVID-19 Daily Testing - By Test,"NOTE: Starting 10/29/2020, this dataset contains demographic breakdowns of tests. It also removes the ""Percent Positive Tests"" column. This value can be calculated from other columns present. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of unique tests and results for COVID-19. This dataset differs from https://data.cityofchicago.org/d/t4hh-4ku9 in that each person is in that dataset only once, even if tested multiple times. In this dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in this dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+The positivity rate displayed in this dataset uses the method most commonly used by other jurisdictions in the United States.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests received through electronic lab reporting are included. Individuals may be tested multiple times. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois Department of Public Health Electronic Lab Reports",2020-11-17,public,https://data.cityofchicago.org/api/views/gkdw-2tgv,https://data.cityofchicago.org/d/gkdw-2tgv
+dcat:Distribution,https://data.cityofchicago.org/api/views/gkdw-2tgv/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/gkdw-2tgv/columns.rdf,application/rdf+xml,COVID-19 Daily Testing - By Test,"NOTE: Starting 10/29/2020, this dataset contains demographic breakdowns of tests. It also removes the ""Percent Positive Tests"" column. This value can be calculated from other columns present. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of unique tests and results for COVID-19. This dataset differs from https://data.cityofchicago.org/d/t4hh-4ku9 in that each person is in that dataset only once, even if tested multiple times. In this dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in this dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+The positivity rate displayed in this dataset uses the method most commonly used by other jurisdictions in the United States.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests received through electronic lab reporting are included. Individuals may be tested multiple times. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois Department of Public Health Electronic Lab Reports",2020-11-17,public,https://data.cityofchicago.org/api/views/gkdw-2tgv,https://data.cityofchicago.org/d/gkdw-2tgv
+dcat:Distribution,https://data.cityofchicago.org/api/views/gkdw-2tgv/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/gkdw-2tgv/columns.json,application/json,COVID-19 Daily Testing - By Test,"NOTE: Starting 10/29/2020, this dataset contains demographic breakdowns of tests. It also removes the ""Percent Positive Tests"" column. This value can be calculated from other columns present. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of unique tests and results for COVID-19. This dataset differs from https://data.cityofchicago.org/d/t4hh-4ku9 in that each person is in that dataset only once, even if tested multiple times. In this dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in this dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+The positivity rate displayed in this dataset uses the method most commonly used by other jurisdictions in the United States.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests received through electronic lab reporting are included. Individuals may be tested multiple times. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois Department of Public Health Electronic Lab Reports",2020-11-17,public,https://data.cityofchicago.org/api/views/gkdw-2tgv,https://data.cityofchicago.org/d/gkdw-2tgv
+dcat:Distribution,https://data.cityofchicago.org/api/views/gkdw-2tgv/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/gkdw-2tgv/columns.svc,application/xml,COVID-19 Daily Testing - By Test,"NOTE: Starting 10/29/2020, this dataset contains demographic breakdowns of tests. It also removes the ""Percent Positive Tests"" column. This value can be calculated from other columns present. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of unique tests and results for COVID-19. This dataset differs from https://data.cityofchicago.org/d/t4hh-4ku9 in that each person is in that dataset only once, even if tested multiple times. In this dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in this dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+The positivity rate displayed in this dataset uses the method most commonly used by other jurisdictions in the United States.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests received through electronic lab reporting are included. Individuals may be tested multiple times. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois Department of Public Health Electronic Lab Reports",2020-11-17,public,https://data.cityofchicago.org/api/views/gkdw-2tgv,https://data.cityofchicago.org/d/gkdw-2tgv
+dcat:Distribution,https://data.cityofchicago.org/api/views/naz8-j4nc/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,"COVID-19 Daily Cases, Deaths, and Hospitalizations","NOTE, 8/14/2020: This dataset has been modified to include hospitalization columns, in addition to the previously existing case and death columns.
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+Only Chicago residents are included based on the home ZIP Code, as provided by the medical provider, or the address, as provided by the Cook County Medical Examiner.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Hospitalizations are based on the date of first hospitalization. Only one hospitalization is counted for each case. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Because of the nature of data reporting to CDPH, hospitalizations will be blank for recent dates They will fill in on later updates when the data are received, although, as for cases and deaths, may continue to be updated as further data are received. 
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects data currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office",2020-11-17,public,https://data.cityofchicago.org/api/views/naz8-j4nc,https://data.cityofchicago.org/d/naz8-j4nc
+dcat:Distribution,https://data.cityofchicago.org/api/views/naz8-j4nc/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/naz8-j4nc/columns.rdf,application/rdf+xml,"COVID-19 Daily Cases, Deaths, and Hospitalizations","NOTE, 8/14/2020: This dataset has been modified to include hospitalization columns, in addition to the previously existing case and death columns.
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+Only Chicago residents are included based on the home ZIP Code, as provided by the medical provider, or the address, as provided by the Cook County Medical Examiner.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Hospitalizations are based on the date of first hospitalization. Only one hospitalization is counted for each case. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Because of the nature of data reporting to CDPH, hospitalizations will be blank for recent dates They will fill in on later updates when the data are received, although, as for cases and deaths, may continue to be updated as further data are received. 
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects data currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office",2020-11-17,public,https://data.cityofchicago.org/api/views/naz8-j4nc,https://data.cityofchicago.org/d/naz8-j4nc
+dcat:Distribution,https://data.cityofchicago.org/api/views/naz8-j4nc/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/naz8-j4nc/columns.json,application/json,"COVID-19 Daily Cases, Deaths, and Hospitalizations","NOTE, 8/14/2020: This dataset has been modified to include hospitalization columns, in addition to the previously existing case and death columns.
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+Only Chicago residents are included based on the home ZIP Code, as provided by the medical provider, or the address, as provided by the Cook County Medical Examiner.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Hospitalizations are based on the date of first hospitalization. Only one hospitalization is counted for each case. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Because of the nature of data reporting to CDPH, hospitalizations will be blank for recent dates They will fill in on later updates when the data are received, although, as for cases and deaths, may continue to be updated as further data are received. 
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects data currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office",2020-11-17,public,https://data.cityofchicago.org/api/views/naz8-j4nc,https://data.cityofchicago.org/d/naz8-j4nc
+dcat:Distribution,https://data.cityofchicago.org/api/views/naz8-j4nc/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/naz8-j4nc/columns.svc,application/xml,"COVID-19 Daily Cases, Deaths, and Hospitalizations","NOTE, 8/14/2020: This dataset has been modified to include hospitalization columns, in addition to the previously existing case and death columns.
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+Only Chicago residents are included based on the home ZIP Code, as provided by the medical provider, or the address, as provided by the Cook County Medical Examiner.
+
+Confirmed cases are counted on the date the test specimen was collected. Deaths are those occurring among confirmed cases based on the day of death. Hospitalizations are based on the date of first hospitalization. Only one hospitalization is counted for each case. Demographic data are based on what is reported by medical providers and is not verified by CDPH.
+
+Because of the nature of data reporting to CDPH, hospitalizations will be blank for recent dates They will fill in on later updates when the data are received, although, as for cases and deaths, may continue to be updated as further data are received. 
+
+All data are provisional and subject to change. Information is updated as additional details are received and it is, in fact, very common for recent dates to be incomplete and to be updated as time goes on. At any given time, this dataset reflects data currently known to CDPH.
+
+Numbers in this dataset may differ from other public sources due to definitions of COVID-19-related cases and deaths, sources used, how cases and deaths are associated to a specific date, and similar factors.
+
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office",2020-11-17,public,https://data.cityofchicago.org/api/views/naz8-j4nc,https://data.cityofchicago.org/d/naz8-j4nc
+dcat:Distribution,https://data.cityofchicago.org/api/views/pb9h-bnh4/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Visitors by Location,"The Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Chicago Public Library consists of the Harold Washington Library Center, Sulzer and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+
+* Count does not reflect the total building visitor count due to location of traffic counter. Community room and program traffic are not included in totals.",2020-10-26,public,https://data.cityofchicago.org/api/views/pb9h-bnh4,https://data.cityofchicago.org/d/pb9h-bnh4
+dcat:Distribution,https://data.cityofchicago.org/api/views/pb9h-bnh4/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/pb9h-bnh4/columns.rdf,application/rdf+xml,Libraries - 2020 Visitors by Location,"The Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Chicago Public Library consists of the Harold Washington Library Center, Sulzer and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+
+* Count does not reflect the total building visitor count due to location of traffic counter. Community room and program traffic are not included in totals.",2020-10-26,public,https://data.cityofchicago.org/api/views/pb9h-bnh4,https://data.cityofchicago.org/d/pb9h-bnh4
+dcat:Distribution,https://data.cityofchicago.org/api/views/pb9h-bnh4/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/pb9h-bnh4/columns.json,application/json,Libraries - 2020 Visitors by Location,"The Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Chicago Public Library consists of the Harold Washington Library Center, Sulzer and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+
+* Count does not reflect the total building visitor count due to location of traffic counter. Community room and program traffic are not included in totals.",2020-10-26,public,https://data.cityofchicago.org/api/views/pb9h-bnh4,https://data.cityofchicago.org/d/pb9h-bnh4
+dcat:Distribution,https://data.cityofchicago.org/api/views/pb9h-bnh4/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/pb9h-bnh4/columns.svc,application/xml,Libraries - 2020 Visitors by Location,"The Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Chicago Public Library consists of the Harold Washington Library Center, Sulzer and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.
+
+
+* Count does not reflect the total building visitor count due to location of traffic counter. Community room and program traffic are not included in totals.",2020-10-26,public,https://data.cityofchicago.org/api/views/pb9h-bnh4,https://data.cityofchicago.org/d/pb9h-bnh4
+dcat:Distribution,https://data.cityofchicago.org/api/views/t4hh-4ku9/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,COVID-19 Daily Testing - By Person,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of people tested for COVID-19 and their results. This dataset differs from https://data.cityofchicago.org/d/gkdw-2tgv in that each person is in this dataset only once, even if tested multiple times. In the other dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in that dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests are included, and only one test is counted for each individual. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection. Chicago Department of Public Health (CDPH) does not receive all not-positive results.
+
+Demographic data are more complete for those who test positive; care should be taken when calculating percentage positivity among demographic groups.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois National Electronic Disease Surveillance System",2020-11-17,public,https://data.cityofchicago.org/api/views/t4hh-4ku9,https://data.cityofchicago.org/d/t4hh-4ku9
+dcat:Distribution,https://data.cityofchicago.org/api/views/t4hh-4ku9/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/t4hh-4ku9/columns.rdf,application/rdf+xml,COVID-19 Daily Testing - By Person,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of people tested for COVID-19 and their results. This dataset differs from https://data.cityofchicago.org/d/gkdw-2tgv in that each person is in this dataset only once, even if tested multiple times. In the other dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in that dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests are included, and only one test is counted for each individual. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection. Chicago Department of Public Health (CDPH) does not receive all not-positive results.
+
+Demographic data are more complete for those who test positive; care should be taken when calculating percentage positivity among demographic groups.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois National Electronic Disease Surveillance System",2020-11-17,public,https://data.cityofchicago.org/api/views/t4hh-4ku9,https://data.cityofchicago.org/d/t4hh-4ku9
+dcat:Distribution,https://data.cityofchicago.org/api/views/t4hh-4ku9/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/t4hh-4ku9/columns.json,application/json,COVID-19 Daily Testing - By Person,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of people tested for COVID-19 and their results. This dataset differs from https://data.cityofchicago.org/d/gkdw-2tgv in that each person is in this dataset only once, even if tested multiple times. In the other dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in that dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests are included, and only one test is counted for each individual. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection. Chicago Department of Public Health (CDPH) does not receive all not-positive results.
+
+Demographic data are more complete for those who test positive; care should be taken when calculating percentage positivity among demographic groups.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois National Electronic Disease Surveillance System",2020-11-17,public,https://data.cityofchicago.org/api/views/t4hh-4ku9,https://data.cityofchicago.org/d/t4hh-4ku9
+dcat:Distribution,https://data.cityofchicago.org/api/views/t4hh-4ku9/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/t4hh-4ku9/columns.svc,application/xml,COVID-19 Daily Testing - By Person,"This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+
+This dataset contains counts of people tested for COVID-19 and their results. This dataset differs from https://data.cityofchicago.org/d/gkdw-2tgv in that each person is in this dataset only once, even if tested multiple times. In the other dataset, each test is counted, even if multiple tests are performed on the same person, although a person should not appear in that dataset more than once on the same day unless he/she had both a positive and not-positive test.
+
+Only Chicago residents are included based on the home address as provided by the medical provider.
+
+Only polymerase chain reaction (PCR)-based tests are included, and only one test is counted for each individual. Tests are counted on the day the specimen was collected. A small number of tests collected prior to 3/1/2020 are not included in the table.
+
+Positive lab results are confirmed for COVID-19. Not-positive lab results include negative results, invalid results, and tests not performed due to improper collection. Chicago Department of Public Health (CDPH) does not receive all not-positive results.
+
+Demographic data are more complete for those who test positive; care should be taken when calculating percentage positivity among demographic groups.
+
+All data are provisional and subject to change. Information is updated as additional details are received.
+
+Data Source: Illinois National Electronic Disease Surveillance System",2020-11-17,public,https://data.cityofchicago.org/api/views/t4hh-4ku9,https://data.cityofchicago.org/d/t4hh-4ku9
+dcat:Distribution,https://data.cityofchicago.org/api/views/thdn-3grx/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,COVID-19 Testing Sites,"Locations offering COVID-19 testing in Chicago.
+
+For a map of these locations, see https://data.cityofchicago.org/d/j2wj-wjrp.
+
+For more information on COVID-19 testing, see https://www.chicago.gov/city/en/sites/covid-19/home/managing-your-health.html?#tab-shouldtest.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.",2020-09-10,public,https://data.cityofchicago.org/api/views/thdn-3grx,https://data.cityofchicago.org/d/thdn-3grx
+dcat:Distribution,https://data.cityofchicago.org/api/views/thdn-3grx/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/thdn-3grx/columns.rdf,application/rdf+xml,COVID-19 Testing Sites,"Locations offering COVID-19 testing in Chicago.
+
+For a map of these locations, see https://data.cityofchicago.org/d/j2wj-wjrp.
+
+For more information on COVID-19 testing, see https://www.chicago.gov/city/en/sites/covid-19/home/managing-your-health.html?#tab-shouldtest.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.",2020-09-10,public,https://data.cityofchicago.org/api/views/thdn-3grx,https://data.cityofchicago.org/d/thdn-3grx
+dcat:Distribution,https://data.cityofchicago.org/api/views/thdn-3grx/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/thdn-3grx/columns.json,application/json,COVID-19 Testing Sites,"Locations offering COVID-19 testing in Chicago.
+
+For a map of these locations, see https://data.cityofchicago.org/d/j2wj-wjrp.
+
+For more information on COVID-19 testing, see https://www.chicago.gov/city/en/sites/covid-19/home/managing-your-health.html?#tab-shouldtest.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.",2020-09-10,public,https://data.cityofchicago.org/api/views/thdn-3grx,https://data.cityofchicago.org/d/thdn-3grx
+dcat:Distribution,https://data.cityofchicago.org/api/views/thdn-3grx/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/thdn-3grx/columns.svc,application/xml,COVID-19 Testing Sites,"Locations offering COVID-19 testing in Chicago.
+
+For a map of these locations, see https://data.cityofchicago.org/d/j2wj-wjrp.
+
+For more information on COVID-19 testing, see https://www.chicago.gov/city/en/sites/covid-19/home/managing-your-health.html?#tab-shouldtest.
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.",2020-09-10,public,https://data.cityofchicago.org/api/views/thdn-3grx,https://data.cityofchicago.org/d/thdn-3grx
+dcat:Distribution,https://data.cityofchicago.org/api/views/uw9m-377y/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Holds Placed by Location,"Patrons may place holds on desired materials either online or by contacting any CPL location. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/uw9m-377y,https://data.cityofchicago.org/d/uw9m-377y
+dcat:Distribution,https://data.cityofchicago.org/api/views/uw9m-377y/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/uw9m-377y/columns.rdf,application/rdf+xml,Libraries - 2020 Holds Placed by Location,"Patrons may place holds on desired materials either online or by contacting any CPL location. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/uw9m-377y,https://data.cityofchicago.org/d/uw9m-377y
+dcat:Distribution,https://data.cityofchicago.org/api/views/uw9m-377y/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/uw9m-377y/columns.json,application/json,Libraries - 2020 Holds Placed by Location,"Patrons may place holds on desired materials either online or by contacting any CPL location. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/uw9m-377y,https://data.cityofchicago.org/d/uw9m-377y
+dcat:Distribution,https://data.cityofchicago.org/api/views/uw9m-377y/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/uw9m-377y/columns.svc,application/xml,Libraries - 2020 Holds Placed by Location,"Patrons may place holds on desired materials either online or by contacting any CPL location. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages. Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/uw9m-377y,https://data.cityofchicago.org/d/uw9m-377y
+dcat:Distribution,https://data.cityofchicago.org/api/views/v5qm-a67f/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,Libraries - 2020 Circulation by Location,"Circulation figures include new checkouts as well as renewals. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/v5qm-a67f,https://data.cityofchicago.org/d/v5qm-a67f
+dcat:Distribution,https://data.cityofchicago.org/api/views/v5qm-a67f/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/v5qm-a67f/columns.rdf,application/rdf+xml,Libraries - 2020 Circulation by Location,"Circulation figures include new checkouts as well as renewals. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/v5qm-a67f,https://data.cityofchicago.org/d/v5qm-a67f
+dcat:Distribution,https://data.cityofchicago.org/api/views/v5qm-a67f/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/v5qm-a67f/columns.json,application/json,Libraries - 2020 Circulation by Location,"Circulation figures include new checkouts as well as renewals. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/v5qm-a67f,https://data.cityofchicago.org/d/v5qm-a67f
+dcat:Distribution,https://data.cityofchicago.org/api/views/v5qm-a67f/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/v5qm-a67f/columns.svc,application/xml,Libraries - 2020 Circulation by Location,"Circulation figures include new checkouts as well as renewals. Chicago Public Library consists of the Harold Washington Library Center, Sulzer, Legler and Woodson regional libraries and over 70 neighborhood branches. Many locations experience sporadic closures to perform facilities upgrade or emergency closures due to heating or air conditioning issues, or area power outages Independence, Little Italy (formerly Roosevelt) and Northtown reopened in early 2019 in new locations. The library also opened its 81st location, West Loop, in January. Douglass and Jefferson Park were closed for extensive renovations for most of the year. Legler, South Shore and Merlo were also closed for extensive renovations and will remain closed until 2020. In response to the evolving COVID-19 pandemic, the Chicago Public Library closed facilities to the public March 21, 2020 – June 7, 2020.",2020-10-26,public,https://data.cityofchicago.org/api/views/v5qm-a67f,https://data.cityofchicago.org/d/v5qm-a67f
+dcat:Distribution,https://data.cityofchicago.org/api/views/yhhz-zm2v/rows.csv?accessType=DOWNLOAD,text/csv,nan,nan,"COVID-19 Cases, Tests, and Deaths by ZIP Code","NOTE: Starting 10/29/2020, the testing-related columns in this dataset will be based on individual tests, even if performed on the same person, rather than unique people. Please see https://www.chicago.gov/content/dam/city/depts/cdph/statistics_and_reports/COVID%20POSITIVITY%20RATE%20CHANGES%20102720.pdf  for more information. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on! 
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html. 
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+ 
+Only Chicago residents are included based on the home ZIP Code as provided by the medical provider. If a ZIP was missing or was not valid, it is displayed as ""Unknown"". 
+ 
+Confirmed cases are counted based on the week the test specimen was collected. For privacy reasons, until a ZIP Code reaches five cumulative cases, both the weekly and cumulative case counts will be blank. Therefore, summing the “Cases - Weekly” column is not a reliable way  to determine case totals. Deaths are those that have occurred among confirmed cases based on the week of death. 
+ 
+For tests, each test is counted once, based on the week the test specimen was collected. Tests performed prior to 3/1/2020 are not included. Test counts include multiple tests for the same person (a change made on 10/29/2020). Only molecular (PCR) tests reported to CDPH through electronic lab reporting are included. Early in the pandemic, electronic lab reporting took time to onboard and testing availability was severely restricted. As a result, numbers prior to May 1, 2020 will be an undercount of community infection.
+
+The “Percent Tested Positive” columns are calculated by dividing the number of positive tests by the number of total tests . Because of the data limitations for the Tests columns, such as persons being tested multiple times as a requirement for employment, these percentages may vary in either direction from the actual disease prevalence in the ZIP Code. 
+ 
+All data are provisional and subject to change. Information is updated as additional details are received. 
+
+To compare ZIP Codes to Chicago Community Areas, please see http://data.cmap.illinois.gov/opendata/uploads/CKAN/NONCENSUS/ADMINISTRATIVE_POLITICAL_BOUNDARIES/CCAzip.pdf. Both ZIP Codes and Community Areas are also geographic datasets on this data portal.
+ 
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, Illinois Vital Records, American Community Survey (2018)",2020-11-13,public,https://data.cityofchicago.org/api/views/yhhz-zm2v,https://data.cityofchicago.org/d/yhhz-zm2v
+dcat:Distribution,https://data.cityofchicago.org/api/views/yhhz-zm2v/rows.rdf?accessType=DOWNLOAD,application/rdf+xml,https://data.cityofchicago.org/api/views/yhhz-zm2v/columns.rdf,application/rdf+xml,"COVID-19 Cases, Tests, and Deaths by ZIP Code","NOTE: Starting 10/29/2020, the testing-related columns in this dataset will be based on individual tests, even if performed on the same person, rather than unique people. Please see https://www.chicago.gov/content/dam/city/depts/cdph/statistics_and_reports/COVID%20POSITIVITY%20RATE%20CHANGES%20102720.pdf  for more information. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on! 
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html. 
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+ 
+Only Chicago residents are included based on the home ZIP Code as provided by the medical provider. If a ZIP was missing or was not valid, it is displayed as ""Unknown"". 
+ 
+Confirmed cases are counted based on the week the test specimen was collected. For privacy reasons, until a ZIP Code reaches five cumulative cases, both the weekly and cumulative case counts will be blank. Therefore, summing the “Cases - Weekly” column is not a reliable way  to determine case totals. Deaths are those that have occurred among confirmed cases based on the week of death. 
+ 
+For tests, each test is counted once, based on the week the test specimen was collected. Tests performed prior to 3/1/2020 are not included. Test counts include multiple tests for the same person (a change made on 10/29/2020). Only molecular (PCR) tests reported to CDPH through electronic lab reporting are included. Early in the pandemic, electronic lab reporting took time to onboard and testing availability was severely restricted. As a result, numbers prior to May 1, 2020 will be an undercount of community infection.
+
+The “Percent Tested Positive” columns are calculated by dividing the number of positive tests by the number of total tests . Because of the data limitations for the Tests columns, such as persons being tested multiple times as a requirement for employment, these percentages may vary in either direction from the actual disease prevalence in the ZIP Code. 
+ 
+All data are provisional and subject to change. Information is updated as additional details are received. 
+
+To compare ZIP Codes to Chicago Community Areas, please see http://data.cmap.illinois.gov/opendata/uploads/CKAN/NONCENSUS/ADMINISTRATIVE_POLITICAL_BOUNDARIES/CCAzip.pdf. Both ZIP Codes and Community Areas are also geographic datasets on this data portal.
+ 
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, Illinois Vital Records, American Community Survey (2018)",2020-11-13,public,https://data.cityofchicago.org/api/views/yhhz-zm2v,https://data.cityofchicago.org/d/yhhz-zm2v
+dcat:Distribution,https://data.cityofchicago.org/api/views/yhhz-zm2v/rows.json?accessType=DOWNLOAD,application/json,https://data.cityofchicago.org/api/views/yhhz-zm2v/columns.json,application/json,"COVID-19 Cases, Tests, and Deaths by ZIP Code","NOTE: Starting 10/29/2020, the testing-related columns in this dataset will be based on individual tests, even if performed on the same person, rather than unique people. Please see https://www.chicago.gov/content/dam/city/depts/cdph/statistics_and_reports/COVID%20POSITIVITY%20RATE%20CHANGES%20102720.pdf  for more information. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on! 
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html. 
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+ 
+Only Chicago residents are included based on the home ZIP Code as provided by the medical provider. If a ZIP was missing or was not valid, it is displayed as ""Unknown"". 
+ 
+Confirmed cases are counted based on the week the test specimen was collected. For privacy reasons, until a ZIP Code reaches five cumulative cases, both the weekly and cumulative case counts will be blank. Therefore, summing the “Cases - Weekly” column is not a reliable way  to determine case totals. Deaths are those that have occurred among confirmed cases based on the week of death. 
+ 
+For tests, each test is counted once, based on the week the test specimen was collected. Tests performed prior to 3/1/2020 are not included. Test counts include multiple tests for the same person (a change made on 10/29/2020). Only molecular (PCR) tests reported to CDPH through electronic lab reporting are included. Early in the pandemic, electronic lab reporting took time to onboard and testing availability was severely restricted. As a result, numbers prior to May 1, 2020 will be an undercount of community infection.
+
+The “Percent Tested Positive” columns are calculated by dividing the number of positive tests by the number of total tests . Because of the data limitations for the Tests columns, such as persons being tested multiple times as a requirement for employment, these percentages may vary in either direction from the actual disease prevalence in the ZIP Code. 
+ 
+All data are provisional and subject to change. Information is updated as additional details are received. 
+
+To compare ZIP Codes to Chicago Community Areas, please see http://data.cmap.illinois.gov/opendata/uploads/CKAN/NONCENSUS/ADMINISTRATIVE_POLITICAL_BOUNDARIES/CCAzip.pdf. Both ZIP Codes and Community Areas are also geographic datasets on this data portal.
+ 
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, Illinois Vital Records, American Community Survey (2018)",2020-11-13,public,https://data.cityofchicago.org/api/views/yhhz-zm2v,https://data.cityofchicago.org/d/yhhz-zm2v
+dcat:Distribution,https://data.cityofchicago.org/api/views/yhhz-zm2v/rows.xml?accessType=DOWNLOAD,application/xml,https://data.cityofchicago.org/api/views/yhhz-zm2v/columns.svc,application/xml,"COVID-19 Cases, Tests, and Deaths by ZIP Code","NOTE: Starting 10/29/2020, the testing-related columns in this dataset will be based on individual tests, even if performed on the same person, rather than unique people. Please see https://www.chicago.gov/content/dam/city/depts/cdph/statistics_and_reports/COVID%20POSITIVITY%20RATE%20CHANGES%20102720.pdf  for more information. -- This is the place to look for important information about how to use this dataset, so please expand this box and read on!
+
+This is the place to look for important information about how to use this dataset, so please expand this box and read on! 
+
+This is the source data for some of the metrics available at https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html. 
+
+For all datasets related to COVID-19, see https://data.cityofchicago.org/browse?limitTo=datasets&sortBy=alpha&tags=covid-19.
+ 
+Only Chicago residents are included based on the home ZIP Code as provided by the medical provider. If a ZIP was missing or was not valid, it is displayed as ""Unknown"". 
+ 
+Confirmed cases are counted based on the week the test specimen was collected. For privacy reasons, until a ZIP Code reaches five cumulative cases, both the weekly and cumulative case counts will be blank. Therefore, summing the “Cases - Weekly” column is not a reliable way  to determine case totals. Deaths are those that have occurred among confirmed cases based on the week of death. 
+ 
+For tests, each test is counted once, based on the week the test specimen was collected. Tests performed prior to 3/1/2020 are not included. Test counts include multiple tests for the same person (a change made on 10/29/2020). Only molecular (PCR) tests reported to CDPH through electronic lab reporting are included. Early in the pandemic, electronic lab reporting took time to onboard and testing availability was severely restricted. As a result, numbers prior to May 1, 2020 will be an undercount of community infection.
+
+The “Percent Tested Positive” columns are calculated by dividing the number of positive tests by the number of total tests . Because of the data limitations for the Tests columns, such as persons being tested multiple times as a requirement for employment, these percentages may vary in either direction from the actual disease prevalence in the ZIP Code. 
+ 
+All data are provisional and subject to change. Information is updated as additional details are received. 
+
+To compare ZIP Codes to Chicago Community Areas, please see http://data.cmap.illinois.gov/opendata/uploads/CKAN/NONCENSUS/ADMINISTRATIVE_POLITICAL_BOUNDARIES/CCAzip.pdf. Both ZIP Codes and Community Areas are also geographic datasets on this data portal.
+ 
+Data Source: Illinois National Electronic Disease Surveillance System, Cook County Medical Examiner’s Office, Illinois Vital Records, American Community Survey (2018)",2020-11-13,public,https://data.cityofchicago.org/api/views/yhhz-zm2v,https://data.cityofchicago.org/d/yhhz-zm2v
